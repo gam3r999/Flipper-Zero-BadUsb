@@ -1,6 +1,6 @@
 # 🔌 Windows BadUSB Payload Collection
 
-![Banner](https://github.com/gam3r999/Flipper-Zero-BadUsb/assets/1fb5a54a-c20e-4de4-9afd-e431a03e2307)
+![Banner](https://github.com/user-attachments/assets/1fb5a54a-c20e-4de4-9afd-e431a03e2307)
 
 A collection of **BadUSB payloads** for Windows devices, designed for **ethical hacking, penetration testing, and educational purposes only**.
 
