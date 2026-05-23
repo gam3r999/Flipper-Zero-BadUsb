@@ -1,7 +1,7 @@
 REM ####################################
 REM #                                  |
 REM # Title        : Try To Catch Me   |
-REM # Author       : Aleff (not me) credits to: https://github.com/aleff-github/my-flipper-shits/blob/hello/Windows/Prank/Try_To_Catch_Me/payload.txt just fixed the script
+REM # Author       : Aleff (not me) credits to: https://github.com/aleff-github/my-flipper-shits/blob/hello/Windows/Prank/Try_To_Catch_Me/payload.txt i just fixed the script
 REM # Version      : 1.0               |
 REM # Category     : Prank             |
 REM # Target       : Windows 10/11     |
